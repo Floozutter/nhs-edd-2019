@@ -1,0 +1,7 @@
+olddata
+olddata_flat
+olddata_source
+data_model_*.pt
+!data_model_0.pt
+!data_model_9.pt
+!data_model_19.pt
